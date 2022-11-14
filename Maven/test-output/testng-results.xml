@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-08T09:55:05 CST" name="Default suite" finished-at="2022-11-08T09:55:10 CST" duration-ms="4355">
+    <groups>
+    </groups>
+    <test started-at="2022-11-08T09:55:05 CST" name="Default test" finished-at="2022-11-08T09:55:10 CST" duration-ms="4355">
+      <class name="Hachion.Maven.MavenTestprg">
+        <test-method signature="Amazon()[pri:0, instance:Hachion.Maven.MavenTestprg@7e5afaa6]" started-at="2022-11-08T09:55:05 CST" name="Amazon" finished-at="2022-11-08T09:55:10 CST" duration-ms="4322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Amazon -->
+      </class> <!-- Hachion.Maven.MavenTestprg -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
